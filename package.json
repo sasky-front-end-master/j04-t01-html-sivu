@@ -1,0 +1,14 @@
+{
+    "name": "j04-t01-html-sivu",
+    "version": "1.0.0",
+    "description": "",
+    "main": "tehtava.html",
+    "scripts": {
+      "test": "testcafe chrome:headless tehtava/tests/"
+    },
+    "author": "Pekka Tapio Aalto",
+    "license": "ISC",
+    "dependencies": {
+      "testcafe": "^1.9.1"
+    }
+  }
